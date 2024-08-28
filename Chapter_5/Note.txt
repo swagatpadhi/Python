@@ -1,0 +1,6 @@
+In Python,
+Strings - Immutable #
+Lists - Mutable
+Tuples - Immutable #
+Dictionary - Mutable
+Sets - Mutable
