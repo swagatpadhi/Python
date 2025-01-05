@@ -1,2 +1,4 @@
-num = 2
-print(f"square of {num} is {num**3}")
+l1 = [7, 9, "harry"]
+l1[0]
+l1[1]
+l1[2]
